@@ -1,1 +1,2 @@
-# learn-with-python.This is my first repository
+# This is my first repository
+To learn with git hub repository
